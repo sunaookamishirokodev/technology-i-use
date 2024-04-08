@@ -62,7 +62,6 @@
 
 ## My extensions
 - Code Runner
-- Prisma
 - Auto Complete Tag
 - Auto Import
 - Auto Rename Tag
@@ -84,3 +83,6 @@
 - Path Intellisence: import faster
 - Prettier - Code formatter: format your code
 - Pretty TypeScript Errors: improve find bug in typescript
+- Prisma: official library of Prisma ORM
+- Remote - SSH: connect to remote ssh
+- Tailwind CSS Intellisence: offical library of Tailwind CSS
